@@ -1,0 +1,267 @@
+2024-05-06 01:58:57,017:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 01:58:57,017:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:20:04,657:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:20:04,657:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:20:04,658:INFO: * Restarting with stat
+2024-05-06 02:20:04,928:WARNING: * Debugger is active!
+2024-05-06 02:20:04,936:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:30:07,123:INFO:202.31.202.9 - - [06/May/2024 02:30:07] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 02:36:37,142:WARNING: * Debugger is active!
+2024-05-06 02:36:37,150:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:36:54,808:INFO:202.31.202.9 - - [06/May/2024 02:36:54] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 02:38:21,255:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:38:21,255:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:38:21,256:INFO: * Restarting with stat
+2024-05-06 02:38:21,529:WARNING: * Debugger is active!
+2024-05-06 02:38:21,536:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:38:33,664:INFO:202.31.202.9 - - [06/May/2024 02:38:33] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 02:40:38,291:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:40:38,291:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:40:38,292:INFO: * Restarting with stat
+2024-05-06 02:40:38,574:WARNING: * Debugger is active!
+2024-05-06 02:40:38,582:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:41:02,073:INFO:202.31.202.9 - - [06/May/2024 02:41:02] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 02:41:58,064:INFO:202.31.202.9 - - [06/May/2024 02:41:58] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 02:42:50,442:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\main.py', reloading
+2024-05-06 02:42:50,460:INFO: * Restarting with stat
+2024-05-06 02:42:50,826:WARNING: * Debugger is active!
+2024-05-06 02:42:50,834:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:43:11,340:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\sheet_service.py', reloading
+2024-05-06 02:43:11,360:INFO: * Restarting with stat
+2024-05-06 02:43:11,643:WARNING: * Debugger is active!
+2024-05-06 02:43:11,650:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:43:32,249:INFO:202.31.202.9 - - [06/May/2024 02:43:32] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 02:43:42,043:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:43:42,043:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:43:42,045:INFO: * Restarting with stat
+2024-05-06 02:43:44,231:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:43:44,231:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:43:44,233:INFO: * Restarting with stat
+2024-05-06 02:43:44,514:WARNING: * Debugger is active!
+2024-05-06 02:43:44,522:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:44:06,061:INFO:202.31.202.9 - - [06/May/2024 02:44:06] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 02:44:52,886:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:44:52,886:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:44:52,887:INFO: * Restarting with stat
+2024-05-06 02:44:53,174:WARNING: * Debugger is active!
+2024-05-06 02:44:53,181:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:45:20,100:INFO:202.31.202.9 - - [06/May/2024 02:45:20] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 02:47:00,041:INFO:202.31.202.9 - - [06/May/2024 02:47:00] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 02:47:47,857:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\main.py', reloading
+2024-05-06 02:47:47,874:INFO: * Restarting with stat
+2024-05-06 02:47:48,150:WARNING: * Debugger is active!
+2024-05-06 02:47:48,158:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:48:08,691:INFO:202.31.202.9 - - [06/May/2024 02:48:08] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 02:49:35,451:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\main.py', reloading
+2024-05-06 02:49:35,470:INFO: * Restarting with stat
+2024-05-06 02:49:35,759:WARNING: * Debugger is active!
+2024-05-06 02:49:35,766:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:49:59,345:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:49:59,345:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:49:59,346:INFO: * Restarting with stat
+2024-05-06 02:49:59,640:WARNING: * Debugger is active!
+2024-05-06 02:49:59,648:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:50:23,931:INFO:202.31.202.9 - - [06/May/2024 02:50:23] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 02:51:33,211:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:51:33,211:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:51:33,212:INFO: * Restarting with stat
+2024-05-06 02:51:33,516:WARNING: * Debugger is active!
+2024-05-06 02:51:33,523:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:51:56,188:INFO:202.31.202.9 - - [06/May/2024 02:51:56] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 02:54:06,879:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\main.py', reloading
+2024-05-06 02:54:06,897:INFO: * Restarting with stat
+2024-05-06 02:54:07,216:WARNING: * Debugger is active!
+2024-05-06 02:54:07,225:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:56:12,395:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 02:56:12,395:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 02:56:12,397:INFO: * Restarting with stat
+2024-05-06 02:56:12,703:WARNING: * Debugger is active!
+2024-05-06 02:56:12,710:INFO: * Debugger PIN: 501-909-554
+2024-05-06 02:56:38,487:INFO:202.31.202.9 - - [06/May/2024 02:56:38] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 03:02:45,396:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:02:45,396:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:02:45,398:INFO: * Restarting with stat
+2024-05-06 03:02:45,707:WARNING: * Debugger is active!
+2024-05-06 03:02:45,714:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:03:07,146:INFO:202.31.202.9 - - [06/May/2024 03:03:07] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 03:04:42,611:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:04:42,611:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:04:42,612:INFO: * Restarting with stat
+2024-05-06 03:04:42,911:WARNING: * Debugger is active!
+2024-05-06 03:04:42,918:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:05:04,888:INFO:202.31.202.9 - - [06/May/2024 03:05:04] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 03:06:17,966:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\sheet_service.py', reloading
+2024-05-06 03:06:17,984:INFO: * Restarting with stat
+2024-05-06 03:06:18,334:WARNING: * Debugger is active!
+2024-05-06 03:06:18,342:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:07:09,084:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:07:09,084:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:07:09,085:INFO: * Restarting with stat
+2024-05-06 03:07:09,382:WARNING: * Debugger is active!
+2024-05-06 03:07:09,390:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:07:26,715:ERROR:¾Ë ¼ö ¾ø´Â ¿¡·¯: __init__() got an unexpected keyword argument 'check'
+2024-05-06 03:07:26,715:INFO:202.31.202.9 - - [06/May/2024 03:07:26] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 03:16:34,441:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:16:34,441:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:16:34,443:INFO: * Restarting with stat
+2024-05-06 03:16:34,752:WARNING: * Debugger is active!
+2024-05-06 03:16:34,759:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:16:54,198:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\main.py', reloading
+2024-05-06 03:16:54,217:INFO: * Restarting with stat
+2024-05-06 03:16:54,521:WARNING: * Debugger is active!
+2024-05-06 03:16:54,528:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:16:59,170:INFO:202.31.202.9 - - [06/May/2024 03:16:59] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:17:39,218:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:17:39,218:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:17:39,219:INFO: * Restarting with stat
+2024-05-06 03:17:39,549:WARNING: * Debugger is active!
+2024-05-06 03:17:39,556:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:18:25,573:INFO:202.31.202.9 - - [06/May/2024 03:18:25] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:19:33,901:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:19:33,901:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:19:33,903:INFO: * Restarting with stat
+2024-05-06 03:19:34,201:WARNING: * Debugger is active!
+2024-05-06 03:19:34,208:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:19:55,181:INFO:202.31.202.9 - - [06/May/2024 03:19:55] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:21:34,365:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:21:34,365:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:21:34,367:INFO: * Restarting with stat
+2024-05-06 03:21:34,674:WARNING: * Debugger is active!
+2024-05-06 03:21:34,682:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:22:01,462:INFO:202.31.202.9 - - [06/May/2024 03:22:01] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:22:46,884:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:22:46,884:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:22:46,885:INFO: * Restarting with stat
+2024-05-06 03:22:47,188:WARNING: * Debugger is active!
+2024-05-06 03:22:47,196:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:23:07,648:INFO:202.31.202.9 - - [06/May/2024 03:23:07] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:24:27,215:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:24:27,215:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:24:27,216:INFO: * Restarting with stat
+2024-05-06 03:24:27,520:WARNING: * Debugger is active!
+2024-05-06 03:24:27,528:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:24:50,257:INFO:202.31.202.9 - - [06/May/2024 03:24:50] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:27:46,799:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\main.py', reloading
+2024-05-06 03:27:46,825:INFO: * Restarting with stat
+2024-05-06 03:27:47,141:WARNING: * Debugger is active!
+2024-05-06 03:27:47,149:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:30:24,680:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:30:24,680:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:30:24,681:INFO: * Restarting with stat
+2024-05-06 03:30:24,976:WARNING: * Debugger is active!
+2024-05-06 03:30:24,984:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:30:46,411:INFO:202.31.202.9 - - [06/May/2024 03:30:46] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:31:39,003:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:31:39,003:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:31:39,004:INFO: * Restarting with stat
+2024-05-06 03:31:39,302:WARNING: * Debugger is active!
+2024-05-06 03:31:39,309:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:32:01,046:INFO:202.31.202.9 - - [06/May/2024 03:32:01] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:33:17,582:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:33:17,582:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:33:17,583:INFO: * Restarting with stat
+2024-05-06 03:33:17,875:WARNING: * Debugger is active!
+2024-05-06 03:33:17,882:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:33:40,707:INFO:202.31.202.9 - - [06/May/2024 03:33:40] "[35m[1mPOST /get_file HTTP/1.1[0m" 500 -
+2024-05-06 03:35:53,431:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:35:53,431:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:35:53,432:INFO: * Restarting with stat
+2024-05-06 03:35:53,739:WARNING: * Debugger is active!
+2024-05-06 03:35:53,746:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:36:15,222:INFO:202.31.202.9 - - [06/May/2024 03:36:15] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 03:38:31,046:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:38:31,046:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:38:31,047:INFO: * Restarting with stat
+2024-05-06 03:38:31,348:WARNING: * Debugger is active!
+2024-05-06 03:38:31,354:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:38:52,475:INFO:202.31.202.9 - - [06/May/2024 03:38:52] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 03:53:00,841:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.10:5000
+2024-05-06 03:53:00,841:INFO:[33mPress CTRL+C to quit[0m
+2024-05-06 03:53:00,843:INFO: * Restarting with stat
+2024-05-06 03:53:01,155:WARNING: * Debugger is active!
+2024-05-06 03:53:01,163:INFO: * Debugger PIN: 501-909-554
+2024-05-06 03:53:35,467:INFO:202.31.202.9 - - [06/May/2024 03:53:35] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 03:54:46,969:INFO:202.31.202.9 - - [06/May/2024 03:54:46] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 03:56:24,669:INFO:202.31.202.9 - - [06/May/2024 03:56:24] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 04:02:03,199:INFO:202.31.202.9 - - [06/May/2024 04:02:03] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 04:06:33,506:INFO:202.31.202.9 - - [06/May/2024 04:06:33] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 04:09:16,517:INFO:202.31.202.9 - - [06/May/2024 04:09:16] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 04:10:37,933:INFO:202.31.202.9 - - [06/May/2024 04:10:37] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 04:15:35,010:INFO:202.31.202.9 - - [06/May/2024 04:15:35] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 04:17:05,319:INFO:202.31.202.9 - - [06/May/2024 04:17:05] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 04:18:53,056:INFO:202.31.202.9 - - [06/May/2024 04:18:53] "POST /get_file HTTP/1.1" 200 -
