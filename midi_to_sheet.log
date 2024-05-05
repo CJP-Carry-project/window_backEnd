@@ -265,3 +265,7 @@
 2024-05-06 04:15:35,010:INFO:202.31.202.9 - - [06/May/2024 04:15:35] "POST /get_file HTTP/1.1" 200 -
 2024-05-06 04:17:05,319:INFO:202.31.202.9 - - [06/May/2024 04:17:05] "POST /get_file HTTP/1.1" 200 -
 2024-05-06 04:18:53,056:INFO:202.31.202.9 - - [06/May/2024 04:18:53] "POST /get_file HTTP/1.1" 200 -
+2024-05-06 04:41:50,026:INFO: * Detected change in 'C:\\Users\\rlaqj\\PycharmProjects\\windowServer\\ssad.py', reloading
+2024-05-06 04:41:50,059:INFO: * Restarting with stat
+2024-05-06 04:41:50,489:WARNING: * Debugger is active!
+2024-05-06 04:41:50,497:INFO: * Debugger PIN: 501-909-554
