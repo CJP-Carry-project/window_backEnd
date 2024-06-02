@@ -6,15 +6,35 @@ import tempfile
 from sheet_service import create_sheet, midi_to_sheet, logging_midi_to_sheet, read_file_as_string
 app = Flask(__name__)
 import asyncio
+import os
+import glob
 
+
+
+def delete_result(audio_title, path):
+    # 특정 디렉토리 경로 설정
+    directory = path
+
+    # 디렉토리 내의 모든 파일 수집
+    all_files = glob.glob(os.path.join(directory, '*'))
+    print(all_files)
+    print(audio_title)
+    # 조건문으로 특정 파일을 삭제
+    for file_path in all_files:
+        # 파일 이름에서 확장자를 제외한 부분을 추출
+        file_name = os.path.splitext(os.path.basename(file_path))[0]
+        # 파일 이름에 audio_title이 포함되어 있다면 삭제
+        if audio_title in file_name:
+            os.remove(file_path)
+            print(f"Deleted: {file_path}")
 @app.route('/get_file', methods=['POST'])
 def get_file():
-    # 요청으로부터 바이너리 데이터와 파일 이름 받아오기
+    # 요청으로부터 바이너리 데이터와 파일 이름 받아오기qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
     binary_data = request.data
     file_name = request.headers.get('file-name')
 
     # 현재 디렉토리에 .mid 형식으로 파일을 저장
-    save_path = os.path.join(os.getcwd(), file_name + '.mid')
+    save_path = os.path.join('./midi/', file_name + '.mid')
     with open(save_path, 'wb') as f:
         f.write(binary_data)
 
@@ -29,6 +49,9 @@ def get_file():
             with open(os.path.join('./sheets/', file), 'rb') as f:
                 content = base64.b64encode(f.read()).decode('utf-8')
                 sheet_files.append({'name': file, 'content': content})
+
+    delete_result(file_name, './midi/')
+    delete_result(file_name, './sheets/')
     return jsonify({'files': sheet_files})
 
 
